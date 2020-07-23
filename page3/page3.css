@@ -8,17 +8,9 @@
 
 }
 
-.seat-number{
-    margin: 0 0 0 20px;
-}
 
-.seat-number2{
-    margin: 0 0 0 28px;
-}
 
-.card-details{
-    padding: 0 10px 0 0 ;
-}
+
 .form-control{
     border:none; /* Get rid of the browser's styling */
     border-bottom:1px solid black; 
@@ -32,8 +24,5 @@
 
 }
 
-.ticket_output{
-    padding-left: 20px;
-}
 
 
